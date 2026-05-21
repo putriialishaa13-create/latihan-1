@@ -1,1 +1,1 @@
-![github logo](Screenshot 2026-04-16 144312.png"github')
+![GitHub Logo](Screenshot 2026-04-16 144312.png"GitHub')
