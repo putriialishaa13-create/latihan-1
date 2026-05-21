@@ -1,2 +1,2 @@
--[x] completed item
--[] incompleted item
+- [x] completed item
+- [] incompleted item
