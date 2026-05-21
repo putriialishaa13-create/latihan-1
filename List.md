@@ -3,7 +3,7 @@
  * sub-item-1
  * sub-tem-2
  -item-2
- -item-3
+ - item-3
  + item-3
  + sub-item-5
  + sub-item-6
